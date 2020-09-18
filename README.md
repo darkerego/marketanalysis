@@ -12,7 +12,7 @@ optional arguments:
   -s PAIR, --symbol PAIR
                         Instrument to analyse
   -i INDICATOR, --indicator INDICATOR
-                        Plot this indicator (MACD, STOCH, SAR ,BBAND)
+                        Plot this indicator (MACD, STOCH, SAR ,BBAND, RSI, SMA)
   -p INTERVAL, --period INTERVAL
                         Interval. 1d means 1 day. 1h means 1 hour.
   -np, --no_plot        Generate Only, do not show.
